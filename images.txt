@@ -1,6 +1,5 @@
 nginx
 pytorch/pytorch:1.13.1-cuda11.6-cudnn8-devel
-pytorch/pytorch:2.2.2-cuda12.1-cudnn8-devel
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
